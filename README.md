@@ -1,2 +1,2 @@
-# bhaskara
-Teste de aplicação de lógica: fórmula de bhaskara
+# condicionais
+Teste de aplicação de lógica: condicionais no visualg
